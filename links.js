@@ -1,4 +1,4 @@
-﻿window.LINKS_DATA = [
+window.LINKS_DATA = [
   {
     "section": "常用",
     "items": [
